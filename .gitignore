@@ -4,3 +4,10 @@ Thumbs.db
 *.swp
 *.swo
 *.bak
+
+# Local rendering sources and export bundles
+*.blend
+*.blend[0-9]*
+*.log
+*.zip
+__pycache__/
