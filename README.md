@@ -1,4 +1,4 @@
-# Emerald Glow — Mobile
+# Omarchy Glow — Mobile Wallpapers
 
 Glowing Omarchy wallpapers for mobile screens, now in ten color variants. Each has a nearly black background and room above the design for a clock or widgets.
 
