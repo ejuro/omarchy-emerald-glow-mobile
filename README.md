@@ -6,25 +6,56 @@ Companion wallpapers to the [Emerald Glow Omarchy theme](https://github.com/ejur
 
 ## Preview
 
-<a href="wallpapers/emerald/emerald-glow-wordmark-mobile-1440x3120.png"><img src="wallpapers/emerald/emerald-glow-wordmark-mobile-1440x3120.png" alt="Emerald Glow wordmark wallpaper" width="260"></a>
-<a href="wallpapers/emerald/emerald-glow-logo-mobile-1440x3120.png"><img src="wallpapers/emerald/emerald-glow-logo-mobile-1440x3120.png" alt="Emerald Glow logo wallpaper" width="260"></a>
+![Omarchy Glow wordmark and logo wallpapers in all ten colors on iPhones](assets/emerald-glow-all-colors-iphones.png)
 
 ## Colors
 
-Choose a color to preview both designs and download your screen size.
+Each color shows the wordmark first and the logo below it. Choose a preview to open that color’s downloads.
 
-| Color | Appearance |
-| --- | --- |
-| [Emerald](wallpapers/emerald/README.md) | Original emerald green |
-| [Orchid](wallpapers/orchid/README.md) | Purple-pink |
-| [Gold](wallpapers/gold/README.md) | Warm gold |
-| [Blue](wallpapers/blue/README.md) | Electric blue with cyan highlights |
-| [Blue & yellow](wallpapers/blue-yellow/README.md) | Blue above, yellow below |
-| [Ice white](wallpapers/ice-white/README.md) | White with a cool halo |
-| [Hot coral](wallpapers/hot-coral/README.md) | Warm coral red |
-| [Ultraviolet](wallpapers/ultraviolet/README.md) | Violet with lavender highlights |
-| [Cyberpunk](wallpapers/cyberpunk/README.md) | Cyan and magenta with a clean split |
-| [Ruby red](wallpapers/ruby-red/README.md) | Saturated ruby red |
+<table>
+  <tr>
+    <th width="20%" align="center"><a href="wallpapers/emerald/README.md">Emerald</a></th>
+    <th width="20%" align="center"><a href="wallpapers/orchid/README.md">Orchid</a></th>
+    <th width="20%" align="center"><a href="wallpapers/gold/README.md">Gold</a></th>
+    <th width="20%" align="center"><a href="wallpapers/blue/README.md">Blue</a></th>
+    <th width="20%" align="center"><a href="wallpapers/blue-yellow/README.md">Blue &amp; yellow</a></th>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><a href="wallpapers/emerald/README.md"><img src="wallpapers/emerald/emerald-glow-wordmark-mobile-1440x3120.png" alt="Emerald wordmark wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/orchid/README.md"><img src="wallpapers/orchid/orchid-glow-wordmark-mobile-1440x3120.png" alt="Orchid wordmark wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/gold/README.md"><img src="wallpapers/gold/gold-glow-wordmark-mobile-1440x3120.png" alt="Gold wordmark wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/blue/README.md"><img src="wallpapers/blue/blue-glow-wordmark-mobile-1440x3120.png" alt="Blue wordmark wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/blue-yellow/README.md"><img src="wallpapers/blue-yellow/swedish-glow-wordmark-mobile-1440x3120.png" alt="Blue &amp; yellow wordmark wallpaper" width="96" height="208"></a></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><a href="wallpapers/emerald/README.md"><img src="wallpapers/emerald/emerald-glow-logo-mobile-1440x3120.png" alt="Emerald logo wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/orchid/README.md"><img src="wallpapers/orchid/orchid-glow-logo-mobile-1440x3120.png" alt="Orchid logo wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/gold/README.md"><img src="wallpapers/gold/gold-glow-logo-mobile-1440x3120.png" alt="Gold logo wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/blue/README.md"><img src="wallpapers/blue/blue-glow-logo-mobile-1440x3120.png" alt="Blue logo wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/blue-yellow/README.md"><img src="wallpapers/blue-yellow/swedish-glow-logo-mobile-1440x3120.png" alt="Blue &amp; yellow logo wallpaper" width="96" height="208"></a></td>
+  </tr>
+  <tr>
+    <th width="20%" align="center"><a href="wallpapers/ice-white/README.md">Ice white</a></th>
+    <th width="20%" align="center"><a href="wallpapers/hot-coral/README.md">Hot coral</a></th>
+    <th width="20%" align="center"><a href="wallpapers/ultraviolet/README.md">Ultraviolet</a></th>
+    <th width="20%" align="center"><a href="wallpapers/cyberpunk/README.md">Cyberpunk</a></th>
+    <th width="20%" align="center"><a href="wallpapers/ruby-red/README.md">Ruby red</a></th>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><a href="wallpapers/ice-white/README.md"><img src="wallpapers/ice-white/ice-white-glow-wordmark-mobile-1440x3120.png" alt="Ice white wordmark wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/hot-coral/README.md"><img src="wallpapers/hot-coral/hot-coral-glow-wordmark-mobile-1440x3120.png" alt="Hot coral wordmark wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/ultraviolet/README.md"><img src="wallpapers/ultraviolet/ultraviolet-glow-wordmark-mobile-1440x3120.png" alt="Ultraviolet wordmark wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/cyberpunk/README.md"><img src="wallpapers/cyberpunk/cyberpunk-glow-wordmark-mobile-1440x3120.png" alt="Cyberpunk wordmark wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/ruby-red/README.md"><img src="wallpapers/ruby-red/ruby-red-glow-wordmark-mobile-1440x3120.png" alt="Ruby red wordmark wallpaper" width="96" height="208"></a></td>
+  </tr>
+  <tr>
+    <td width="20%" align="center"><a href="wallpapers/ice-white/README.md"><img src="wallpapers/ice-white/ice-white-glow-logo-mobile-1440x3120.png" alt="Ice white logo wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/hot-coral/README.md"><img src="wallpapers/hot-coral/hot-coral-glow-logo-mobile-1440x3120.png" alt="Hot coral logo wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/ultraviolet/README.md"><img src="wallpapers/ultraviolet/ultraviolet-glow-logo-mobile-1440x3120.png" alt="Ultraviolet logo wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/cyberpunk/README.md"><img src="wallpapers/cyberpunk/cyberpunk-glow-logo-mobile-1440x3120.png" alt="Cyberpunk logo wallpaper" width="96" height="208"></a></td>
+    <td width="20%" align="center"><a href="wallpapers/ruby-red/README.md"><img src="wallpapers/ruby-red/ruby-red-glow-logo-mobile-1440x3120.png" alt="Ruby red logo wallpaper" width="96" height="208"></a></td>
+  </tr>
+</table>
 
 ## Sizes and use
 
